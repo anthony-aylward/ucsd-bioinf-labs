@@ -6,8 +6,8 @@ Collect a list of salient features that can be used to characterize faculty and 
 
 ### Faculty Features
 - **funding status**
-- academic age
 - academic history
+  - academic age
   - previous institution
   - PhD field
   - most recent publication
