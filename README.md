@@ -20,6 +20,9 @@ Collect a list of salient features that can be used to characterize faculty and 
 - mentoring style
   - hands-on vs. hands-off
   - availability
+  - positive vs. critical feedback
+- problem definition style
+  - high-level vs. technical
 
 ### Lab Features
 - physical location
