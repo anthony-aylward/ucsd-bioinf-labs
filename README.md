@@ -39,4 +39,4 @@ Collect a list of salient features that can be used to characterize faculty and 
 Populate a database with information on faculty and their salient features, perhaps in .csv or .json format.
 
 ## Third Aim
-Wrap collected data with an intuitive graphical interface.
+Wrap collected data with an intuitive and useful graphical interface.
