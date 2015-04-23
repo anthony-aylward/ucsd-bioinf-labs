@@ -21,6 +21,7 @@ Collect a list of salient features that can be used to characterize faculty and 
   - hands-on vs. hands-off
   - availability
   - positive vs. critical feedback
+  - rigid vs. loose scheduling
 - problem definition style
   - big-picture vs. technical
 
@@ -40,6 +41,8 @@ Collect a list of salient features that can be used to characterize faculty and 
   - transcriptomic
   - proteomic
   - lipidomic
+- climate
+  - working in lab vs. working remotely
 
 ## Second Aim
 Populate a database with information on faculty and their salient features, perhaps in .json format. Collect electronic submissions from students and interview faculty.
