@@ -2,7 +2,7 @@
 A database containing comprehensive information about faculty and labs in the UCSD Bioinformatics Graduate Program
 
 ## First Aim
-Collect a list of salient features that can be used to characterize faculty and labs.
+Collect a list of salient features that can be used to characterize faculty and labs. Special focus on things that are important to new students who are choosing rotation advisors and joining labs.
 
 ### Faculty Features
 - **funding status**
