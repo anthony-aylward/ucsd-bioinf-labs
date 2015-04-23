@@ -9,21 +9,23 @@ Collect a list of salient features that can be used to characterize faculty and 
 - age
 - gender
 - home department
-- previous institution
-- PhD field
-- hands-on vs. hands-off
-- availability
+- academic history
+  - previous institution
+  - PhD field
+- mentoring style
+  - hands-on vs. hands-off
+  - availability
 
 ### Lab Features
-- number of students
-- number of postdocs
-- number of professors
-- total size
+-total size
+  - number of students
+  - number of postdocs
+  - number of professors
 - computational
-- computing resources
+  - programming languages
+  - computing resources
 - wet lab
-- model organisms
-- programming languages
+  - model organisms
 
 ## Second Aim
 Populate a database with information on faculty and their salient features, perhaps in .csv or .json format
