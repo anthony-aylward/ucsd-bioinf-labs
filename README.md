@@ -29,6 +29,10 @@ Collect a list of salient features that can be used to characterize faculty and 
 - wet lab
   - model organisms
 - data types
+  - genomic
+  - transcriptomic
+  - proteomic
+  - lipidomic
 
 ## Second Aim
 Populate a database with information on faculty and their salient features, perhaps in .csv or .json format.
