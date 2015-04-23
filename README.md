@@ -18,6 +18,7 @@ Collect a list of salient features that can be used to characterize faculty and 
   - availability
 
 ### Lab Features
+- physical location
 - total size
   - number of students
   - number of postdocs
