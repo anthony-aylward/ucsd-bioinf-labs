@@ -22,7 +22,7 @@ Collect a list of salient features that can be used to characterize faculty and 
   - availability
   - positive vs. critical feedback
 - problem definition style
-  - high-level vs. technical
+  - big-picture vs. technical
 
 ### Lab Features
 - physical location
