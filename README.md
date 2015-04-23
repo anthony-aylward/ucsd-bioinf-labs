@@ -23,7 +23,7 @@ Collect a list of salient features that can be used to characterize faculty and 
   - number of professors
 - computational
   - programming languages
-  - computing resources
+    - computing resources
 - wet lab
   - model organisms
 
