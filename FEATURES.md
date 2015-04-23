@@ -1,0 +1,48 @@
+### Faculty Features
+- **funding status**
+- home department
+- research focus
+- collaborators
+- academic history
+  - academic age
+  - previous institution
+  - PhD field
+  - most recent publication
+- mentoring style
+  - hands-on vs. hands-off
+  - availability
+  - positive vs. critical feedback
+  - rigid vs. flexible scheduling
+  - conflict resolution
+- problem definition style
+  - big-picture vs. technical
+
+### Lab Features
+- physical location
+- total size
+  - number of students
+  - number of postdocs
+  - number of professors
+- computational
+  - programming languages
+  - computing resources
+  - tool development
+- wet lab
+  - model organisms
+  - cell lines
+- data types
+  - genomic
+  - transcriptomic
+  - proteomic
+  - lipidomic
+- climate
+  - working in lab vs. working remotely
+  - diversity
+  - cooperative vs. competitive
+  - tight-knit vs. loose-knit
+  - retreat
+- expectations and responsibilities
+  - number of first-author papers
+- post-graduation opportunities
+  - past students
+  - academic vs. industrial
