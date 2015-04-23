@@ -39,7 +39,7 @@ Collect a list of salient features that can be used to characterize faculty and 
   - lipidomic
 
 ## Second Aim
-Populate a database with information on faculty and their salient features, perhaps in .csv or .json format. Collect electronic submissions from students and interview faculty.
+Populate a database with information on faculty and their salient features, perhaps in .json format. Collect electronic submissions from students and interview faculty.
 
 ## Third Aim
 Wrap collected data with an intuitive and useful graphical interface.
