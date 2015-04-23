@@ -51,6 +51,8 @@ Collect a list of salient features that can be used to characterize faculty and 
 - expectations and responsibilities
   - number of first-author papers
 - post-graduation opportunities
+  - past students
+  - academic vs. industrial
 
 ## Second Aim
 Populate a database with information on faculty and their salient features, perhaps in .json format. Collect electronic submissions from students and interview faculty.
