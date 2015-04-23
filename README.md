@@ -49,6 +49,7 @@ Collect a list of salient features that can be used to characterize faculty and 
   - diversity
   - cooperative vs. competitive
   - tight-knit vs. loose-knit
+  - retreat
 - expectations and responsibilities
   - number of first-author papers
 - post-graduation opportunities
