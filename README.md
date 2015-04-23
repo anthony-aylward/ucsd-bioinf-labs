@@ -2,7 +2,7 @@
 A database containing comprehensive information about faculty and labs in the UCSD Bioinformatics Graduate Program
 
 ## First Aim
-Collect a list of salient features that can be used to characterize faculty and labs
+Collect a list of salient features that can be used to characterize faculty and labs.
 
 ### Faculty Features
 - **funding status**
@@ -28,4 +28,4 @@ Collect a list of salient features that can be used to characterize faculty and 
   - model organisms
 
 ## Second Aim
-Populate a database with information on faculty and their salient features, perhaps in .csv or .json format
+Populate a database with information on faculty and their salient features, perhaps in .csv or .json format.
