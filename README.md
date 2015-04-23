@@ -5,7 +5,7 @@ A database containing comprehensive information about faculty and labs in the UC
 Collect a list of salient features that can be used to characterize faculty and labs
 
 ### Faculty Features
-- **funding**
+- **funding status**
 - age
 - gender
 - home department
