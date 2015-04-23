@@ -34,7 +34,7 @@
   - genomic
   - transcriptomic
   - proteomic
-  - lipidomic
+  - metabolomic
 - climate
   - working in lab vs. working remotely
   - diversity
