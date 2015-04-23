@@ -30,8 +30,11 @@ Collect a list of salient features that can be used to characterize faculty and 
   - model organisms
 - data types
   - genomic
+    - sequencing platform
   - transcriptomic
+    - microarray vs. next-gen
   - proteomic
+    - mass spectrometry
   - lipidomic
 
 ## Second Aim
