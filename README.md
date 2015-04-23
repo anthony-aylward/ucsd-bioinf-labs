@@ -38,6 +38,7 @@ Collect a list of salient features that can be used to characterize faculty and 
   - tool development
 - wet lab
   - model organisms
+  - cell lines
 - data types
   - genomic
   - transcriptomic
