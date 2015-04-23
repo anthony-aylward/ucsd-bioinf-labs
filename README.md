@@ -6,14 +6,14 @@ Collect a list of salient features that can be used to characterize faculty and 
 
 ### Faculty Features
 - **funding status**
+- home department
+- research focus
+- collaborators
 - academic history
   - academic age
   - previous institution
   - PhD field
   - most recent publication
-- home department
-- research focus
-- collaborators
 - mentoring style
   - hands-on vs. hands-off
   - availability
