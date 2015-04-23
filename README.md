@@ -20,4 +20,10 @@ Collect a list of salient features that can be used to characterize faculty and 
 - number of professors
 - total size
 - computational
+- computing resources
 - wet lab
+- model organisms
+- programming languages
+
+## Second Aim
+Populate a database with information on faculty and their salient features, perhaps in .csv or .json format
