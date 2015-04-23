@@ -7,12 +7,13 @@ Collect a list of salient features that can be used to characterize faculty and 
 ### Faculty Features
 - **funding status**
 - academic age
-- home department
-- research focus
 - academic history
   - previous institution
   - PhD field
   - most recent publication
+- home department
+- research focus
+- collaborators
 - mentoring style
   - hands-on vs. hands-off
   - availability
@@ -30,11 +31,8 @@ Collect a list of salient features that can be used to characterize faculty and 
   - model organisms
 - data types
   - genomic
-    - sequencing platform
   - transcriptomic
-    - microarray vs. next-gen
   - proteomic
-    - mass spectrometry
   - lipidomic
 
 ## Second Aim
